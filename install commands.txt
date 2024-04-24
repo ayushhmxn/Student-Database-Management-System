@@ -1,0 +1,17 @@
+pip install virtualenv
+
+virtualenv myenv
+
+myenv\Scripts\activate
+
+1.pip install flask
+
+2.pip install Flask-SQLAlchemy
+
+3.pip install Flask-Mail
+
+4.pip install mysqlclient
+
+5. pip install flask-login
+
+6. pip install werkzeug==2.3.0
